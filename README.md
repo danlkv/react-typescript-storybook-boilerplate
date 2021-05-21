@@ -5,7 +5,8 @@
 1. Typescript
 2. Less
 3. Storybook
-4. Webpack
+4. Webpack 5
+5. Tests with mocha & chai
 
 
 ## Usage
